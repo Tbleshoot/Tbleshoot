@@ -9,7 +9,7 @@ Hi, I'm Robin Wilson, an <a href="https://www.linkedin.com/in/robin-wilson-35701
   - [Remote connection](https://github.com/Tbleshoot/Remote )
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
