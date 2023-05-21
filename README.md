@@ -4,9 +4,9 @@ Hi, I'm Robin Wilson, an <a href="https://www.linkedin.com/in/robin-wilson-35701
 
 - <b> Microsoft Azure  (Initiation )</b>
 
-  - [Installation](https://github.com/tbleshoot/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Installation](https://github.com/tbleshoot/resouce creation)
+  - [Virtual Macine Configuration](https://github.com/Tbleshoot/Virtual Machine-config)
+  - [Remote connection](https://github.com/Tbleshoot/Remote )
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
