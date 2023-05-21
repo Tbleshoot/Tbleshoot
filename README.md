@@ -4,7 +4,7 @@ Hi, I'm Robin Wilson, an <a href="https://https://www.linkedin.com/in/robin-wils
 
 - <b> Microsoft Azure  (Initiation )</b>
 
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Installation](https://github.com/tbleshoot/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
